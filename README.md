@@ -1,4 +1,4 @@
-### Hi everyone ! My name is Vu Xuan Hung, i'm developer
+### Hi everyone ! My name is Vu Xuan Hung, i'm developer in Hanoi, Vietnam 
 ### My skills 
 ![](https://img.shields.io/badge/code-.NET-informational?style=flat&logo=<#5C2D91>&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/code-ASP.NET&nbsp;MVC-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
