@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/code-NodeJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
 ![](https://img.shields.io/badge/code-ReactJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 <br />
-![](https://img.shields.io/badge/tool-VisualStudio-informational?style=flat&logo=<#5C2D91>&logoColor=white&color=purple)
+![](https://img.shields.io/badge/tool-VisualStudio-informational?style=flat&logo=<visualstudio>&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/tool-SmartGit-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />
 <!--
