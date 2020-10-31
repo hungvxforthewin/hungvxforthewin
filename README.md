@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/code-NodeJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
 ![](https://img.shields.io/badge/code-ReactJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 <br />
-![](https://img.shields.io/badge/tool-VisualStudio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
+![](https://img.shields.io/badge/tool-VisualStudio-informational?style=flat&logo=<#5C2D91>&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/tool-SmartGit-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
 <!--
 **hungvxforthewin/hungvxforthewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
