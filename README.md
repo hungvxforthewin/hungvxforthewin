@@ -29,6 +29,6 @@
 
 <!--
 **hungvxforthewin/hungvxforthewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://img.shields.io/badge/tool-SmartGit-informational?style=flat&logo=data:image/svg%2bxml;base64,<data_base64>&logoColor=white&color=purple)
+template ![](https://img.shields.io/badge/tool-SmartGit-informational?style=flat&logo=data:image/svg%2bxml;base64,<data_base64>&logoColor=white&color=purple)
 
 -->
