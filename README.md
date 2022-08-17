@@ -1,4 +1,4 @@
-### Hi There!:wave: My name is Hung Vu Xuan, i'm developer in Hanoi, Vietnam :rocket: :rocket: :rocket:
+### Hi There!:wave: My name is Hungvx, i'm Software Engineer in Hanoi, Vietnam :rocket: :rocket: :rocket:
 
 Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in .NET, Java, SQL, JS and SOLID, Design Pattern. Strong engineering professional with a Engineer's degree focused in Information Technology from Military Technical Academy. 
 
